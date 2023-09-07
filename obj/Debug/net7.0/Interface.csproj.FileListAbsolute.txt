@@ -1,0 +1,15 @@
+D:\Gitsample\Assignment\Interface\bin\Debug\net7.0\Interface.exe
+D:\Gitsample\Assignment\Interface\bin\Debug\net7.0\Interface.deps.json
+D:\Gitsample\Assignment\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+D:\Gitsample\Assignment\Interface\bin\Debug\net7.0\Interface.dll
+D:\Gitsample\Assignment\Interface\bin\Debug\net7.0\Interface.pdb
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\Interface.dll
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\refint\Interface.dll
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\Interface.pdb
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+D:\Gitsample\Assignment\Interface\obj\Debug\net7.0\ref\Interface.dll
