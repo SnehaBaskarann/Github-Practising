@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gitsample\\Assignment\\Interface\\Interface.csproj": {}
+    "D:\\SKV\\Codes\\Sneha\\Github-Practising\\Interface.csproj": {}
   },
   "projects": {
-    "D:\\Gitsample\\Assignment\\Interface\\Interface.csproj": {
+    "D:\\SKV\\Codes\\Sneha\\Github-Practising\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gitsample\\Assignment\\Interface\\Interface.csproj",
+        "projectUniqueName": "D:\\SKV\\Codes\\Sneha\\Github-Practising\\Interface.csproj",
         "projectName": "Interface",
-        "projectPath": "D:\\Gitsample\\Assignment\\Interface\\Interface.csproj",
-        "packagesPath": "C:\\Users\\sneha.baskaran\\.nuget\\packages\\",
-        "outputPath": "D:\\Gitsample\\Assignment\\Interface\\obj\\",
+        "projectPath": "D:\\SKV\\Codes\\Sneha\\Github-Practising\\Interface.csproj",
+        "packagesPath": "C:\\Users\\kathirvel.selvam\\.nuget\\packages\\",
+        "outputPath": "D:\\SKV\\Codes\\Sneha\\Github-Practising\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sneha.baskaran\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kathirvel.selvam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }
